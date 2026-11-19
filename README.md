@@ -1,16 +1,20 @@
-### Hi there 👋
+# Merhaba, ben Seray 👋
 
-<!--
-**SerayBengisu/SerayBengisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Malatya Turgut Özal Üniversitesi Yazılım Mühendisliği son sınıf öğrencisiyim (beklenen mezuniyet: 06/2027).
+Angular, TypeScript ve Firebase ile web uygulamaları; C# ve .NET ile masaüstü uygulamaları geliştiriyorum.
 
-Here are some ideas to get you started:
+## 🚀 Projeler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Kampüs İçi Akıllı Rezervasyon ve Kaynak Yönetim Sistemi](https://github.com/Ulaibrahimhamdo/akilli-rezervasyon)**
+Angular · TypeScript · Firebase — Staj projesi (Bingöl Üniversitesi Dijital Dönüşüm Ofisi)
+Proje altyapısı, rol bazlı erişim (authGuard / roleGuard), Yönetici ve Admin panelleri, ortak bileşen kütüphanesi.
+
+**[Kitap Ödünç Alma Sistemi](https://github.com/Fatma4444/KitapOduncAlmaSistemi)**
+Angular · TypeScript — Ekip projesi
+Kütüphane Haritası sayfası: kat seçici, kitap bilgi paneli, yol tarifi ve LibraryMapService.
+
+## 🛠️ Teknolojiler
+Angular · TypeScript · JavaScript · C# · .NET · Firebase · SQL · Git · Figma
+
+## 📫 İletişim
+[LinkedIn](https://linkedin.com/in/seraybengisuonuk) · serayybengisuonuk@gmail.com
